@@ -1,6 +1,6 @@
 0- Información en en dashboard:
 
-    En el dashboar se visualizan informaciones de Demanda y Generacion de Energia Electrica de los años 2017 a 2020 inclusive por Año / Provincia, tambien se puede ver la participacion
+    En el dashboard se visualizan informaciones de Demanda y Generacion de Energia Electrica de los años 2017 a 2020 inclusive por Año / Provincia, tambien se puede ver la participacion
     de la demanda por tipo de consumidor y el tipo de fuente de Generación.
 
 1- Librerias necesarias para ejecutar la app:
