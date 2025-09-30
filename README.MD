@@ -27,6 +27,6 @@
 4- Notebook:
 
     Abrir la Notebook Tp_visualizacion_BD.ipynb, y ejecutar secuencialmente las celdas, automaticamente se importaran los dataset a la base de datos y mediante Pandas se trasnformaran 
-    los datos en Dataset con la informaciones necesarias para las visualizaciones de la app.
+    los datos en Dataframe con la informaciones necesarias para las visualizaciones de la app.
     Nota: en la Notebook antes de cada celda de código se encuentra una celda de Markdown con las explicaciones pertinentes para crear la visualizacion del dashboard.
 
