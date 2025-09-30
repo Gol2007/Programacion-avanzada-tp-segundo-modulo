@@ -4,7 +4,7 @@
     de la demanda por tipo de consumidor y el tipo de fuente de Generación.
 
 1- Librerias necesarias para ejecutar la app:
-
+    Python 3.13.7
     pathlib
     duckdb
     pandas
